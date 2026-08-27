@@ -1,0 +1,23 @@
+# Protobuf/grpc generated sources
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Local config
+local.properties
+gradle.properties.local

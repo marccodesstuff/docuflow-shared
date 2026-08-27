@@ -1,0 +1,3 @@
+rootProject.name = "docuflow-shared"
+
+enableFeaturePreview("VERSION_CATALOGS")
